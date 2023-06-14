@@ -3,7 +3,9 @@
 0. Tambahkan NotificationService ke projectmu.
 Atau gunakan kode ini:
 ```
-curl https://raw.githubusercontent.com/denyocrworld/simple_notification/master/lib/service/notification_service/notification_service.dart -o lib/service/notification_service/notification_service.dart
+curl https://raw.githubusercontent.com/denyocrworld/simple_notification/master/lib/service/notification_service/notification_service.dart -o notification_service.dart
+mkdir lib/service/notification_service
+mv notification_service.dart lib/service/notification_service/notification_service.dart
 ```
 
 1. Buat icon di lokasi ini:

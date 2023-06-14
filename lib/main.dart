@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_notification/service/notification_service/notification_service.dart';
+import 'package:flutter_notification/service/notification_servicez/notification_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
