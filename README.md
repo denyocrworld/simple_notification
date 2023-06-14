@@ -1,5 +1,11 @@
 ### How to Use ###
 
+0. Tambahkan NotificationService ke projectmu.
+Atau gunakan kode ini:
+```
+curl https://raw.githubusercontent.com/denyocrworld/simple_notification/master/lib/service/notification_service/notification_service.dart -o lib/service/notification_service/notification_service.dart
+```
+
 1. Buat icon di lokasi ini:
 ```
 android/app/src/main/res/drawable/app_icon.png
